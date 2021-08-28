@@ -12,4 +12,8 @@
 ## Vim Editor
 
 ## Basic Comeends 2
-* 
+* cp
+* rm
+* rm -rf
+* mv
+* ../
